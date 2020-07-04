@@ -5,8 +5,8 @@ body{
     background: red;
     box-sizing: border-box;
     line-height: 1.5;
-    font-size: 100px;
-    font-weight: 100;
+    font-size: 500px;
+    font-weight: 900;
 }
 .img{
     background: url("https://cdn.pixabay.com/photo/2015/11/26/22/28/girl-1064664_960_720.jpg");
